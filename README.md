@@ -1,1 +1,1 @@
-# Adptive
+# Adaptive
